@@ -22,7 +22,7 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.network.NetworkMod;
 import cpw.mods.fml.common.registry.GameRegistry;
-//Poney
+//Poney2
 @Mod( modid= ModInfo.ID, name= ModInfo.NAME, version=ModInfo.VERSION )
 @NetworkMod( channels = {ModInfo.CHANNEL}, clientSideRequired = true, serverSideRequired = true )
 public class Main {
