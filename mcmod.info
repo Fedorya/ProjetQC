@@ -1,0 +1,14 @@
+[
+{
+"modid": "PROJET",
+"name": "Projet Aquilon",
+"description": "Coucou",
+"version": "Projet 0.1",
+"url": "ddd",
+"authorList": ["cybercobra", "millou"],
+"credits": "ddd",
+"logoFile": "assets/mcfmt/logoFile.png",
+"dependencies": ["forge-9.10.0.789"],
+"mcversion": "1.6.2"
+}
+]
